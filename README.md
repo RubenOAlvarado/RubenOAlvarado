@@ -1,12 +1,16 @@
-[![Ruben's GitHub Banner](./assets/banner.jpg)](https://algorithmapps.com.mx)
+[![Ruben's GitHub Banner](./assets/banner.jpg)](https://github.com/RubenOAlvarado)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/munditower)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ruben-alvarado-molina-9020010/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/alvaradorubo/)
+[![Gitlab Badge](https://img.shields.io/badge/Gitlab-Profile-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)](https://gitlab.com/rubenoalvarado)
 
-Hi!
-I'm Ruben. A senior fullstack developer and GraphQL enthusiastic. I love learning new tech stacks and make some funny things. 
+## Hi! 👋
 
-I created Algorithm Apps with some friends, and we are trying to leave our mark in this world. [Check it out!](https://algorithmapps.com.mx) 
+I'm Ruben. A senior Full Stack developer and backend specialist. I love learning new tech stacks and make some funny things. I'm willing to learn Golang. I'm a big fan of clean code and good practices.
+I love Svelte and SvelteKit, but I'm also a big fan of React. I'm a big fan of Spring Boot and NestJs.
+
+Right now my github is a little bit empty, but I'm working on it. I'm going to upload some projects that I've been working on. So, please be aware of my updates.
 
 
 ## 💼 Skills
