@@ -1,6 +1,6 @@
 [![Ruben's GitHub Banner](./assets/banner.jpg)](https://github.com/RubenOAlvarado)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/munditower)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/RubenOAlvarado)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ruben-alvarado-molina-9020010/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/alvaradorubo/)
 [![Gitlab Badge](https://img.shields.io/badge/Gitlab-Profile-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)](https://gitlab.com/rubenoalvarado)
