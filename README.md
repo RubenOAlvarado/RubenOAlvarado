@@ -12,11 +12,13 @@ Senior Software Engineer passionate about clean code, solid engineering practice
 # 📊 GitHub Stats:
 <br>
 <a href="https://github.com/rubenoalvarado">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenoalvarado&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="./assets/top-langs.svg" />
 </a>
 <a href="https://github.com/rubenoalvarado">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rubenoalvarado&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ruben's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="./assets/stats.svg" alt="Ruben's GitHub Stats" />
 </a>
 <br>
+
+<sub>Stats generated daily via <a href="./.github/workflows/update-stats.yml">GitHub Actions</a> — no more broken cards from the shared vercel.app instance.</sub>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
